@@ -1,17 +1,17 @@
-### Hi there 👋
 
-<!--
-**mubarak080/mubarak080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+HI, i'm Mubarak! i am Data Analyst.
+take a look at my linkedin to know more about my professional experience:
+https://www.linkedin.com/in/mubarakndayako 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[README.md](https://github.com/mubarak080/mubarak080/files/9995187/README.md)
+
+
+
+Following are my projects in SQL, Power BI & Excel
+
+* Youth Distribution dashboard using Excel:
+
+
+
+[![portfolio](https://github.com/mubarak080/mubarak080/blob/main/Youth%20Distribution%20Report.JPG)]
